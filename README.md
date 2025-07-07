@@ -5,8 +5,9 @@
 
 [![Build Status](https://travis-ci.org/emre/storm.svg?branch=master)](https://travis-ci.org/emre/storm)
 
+**Support Python after 3.11 now.** 
+
 storm is a command line tool to manage your ssh connections.
-Support Python after 3.11 now.
 
 
 **features**
