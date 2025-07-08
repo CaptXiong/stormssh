@@ -26,25 +26,8 @@ On Ubuntu 16.04, you need install libssl-dev and libffi-dev (sudo apt-get instal
 #### installation
 
 ```bash
-$ [sudo] pip install stormssh
+$ [sudo] pip install git+https://github.com/CaptXiong/stormssh.git
 ```
-or if you like 90s:
-```bash
-$ [sudo] easy_install stormssh
-```
-
-or if you like homebrew:
-```bash
-$ brew install stormssh
-```
-
-or if prefer using a package manager in your distro:
-
-| Distro        | Package
-| ------------- |---------------|
-| Archlinux     | <a href="https://aur.archlinux.org/packages/python-stormssh/">python-stormssh</a> |
-| Opensuse      | <a href="http://rpm.pbone.net/index.php3?stat=3&search=python-stormssh&srodzaj=3">python-stormssh</a> |
-| Void Linux    | <a href="https://github.com/voidlinux/void-packages/tree/master/srcpkgs/python-stormssh">python-stormssh</a> |
 
 #### troubleshooting installation
 
